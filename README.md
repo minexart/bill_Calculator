@@ -1,7 +1,3 @@
-#bill_Calculator
-A coursework project on the fundamentals of programming (part 1). Experimented with a type of grocery billing system.
-# 🛒 Fresh Mart Bill Calculator
-
 A C++ console application built as a coursework project for **Fundamentals of Programming (Part 1)**. It simulates a grocery billing system for a fictional store called *Fresh Mart*, complete with a shopping cart and GST-inclusive receipt.
 
 ## Features
